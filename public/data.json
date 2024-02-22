@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imageid": "1",
+      "name": "Don A Taylor",
+      "semester": 8,
+      "marks": [
+        { "subject": "Physics", "marks": 65 },
+        { "subject": "Computer", "marks": 73 },
+        { "subject": "English", "marks": 46 }
+      ]
+    },
+    {
+      "id": 2,
+      "imageid": 2,
+      "name": "John Smith",
+      "semester": 4,
+      "marks": [
+        { "subject": "Physics", "marks": 78 },
+        { "subject": "Computer", "marks": 47 },
+        { "subject": "English", "marks": 97 }
+      ]
+    },
+    {
+      "id": 3,
+      "imageid": 3,
+      "name": "Eva Watson",
+      "semester": 7,
+      "marks": [
+        { "subject": "Physics", "marks": 89 },
+        { "subject": "Computer", "marks": 92 },
+        { "subject": "English", "marks": 89 }
+      ]
+    },
+    {
+      "id": 4,
+      "imageid": 4,
+      "name": "Liam Nguyen",
+      "semester": 5,
+      "marks": [
+        { "subject": "Physics", "marks": 74 },
+        { "subject": "Computer", "marks": 85 },
+        { "subject": "English", "marks": 68 }
+      ]
+    },
+    {
+      "id": 5,
+      "imageid": 5,
+      "name": "Olivia Zhou",
+      "semester": 2,
+      "marks": [
+        { "subject": "Physics", "marks": 88 },
+        { "subject": "Computer", "marks": 90 },
+        { "subject": "English", "marks": 91 }
+      ]
+    },
+    {
+      "id": 6,
+      "imageid": 6,
+      "name": "Emma Lin",
+      "semester": 6,
+      "marks": [
+        { "subject": "Physics", "marks": 82 },
+        { "subject": "Computer", "marks": 77 },
+        { "subject": "English", "marks": 85 }
+      ]
+    },
+    {
+      "id": 7,
+      "imageid": 7,
+      "name": "Noah Kim",
+      "semester": 3,
+      "marks": [
+        { "subject": "Physics", "marks": 90 },
+        { "subject": "Computer", "marks": 92 },
+        { "subject": "English", "marks": 87 }
+      ]
+    },
+    {
+      "id": 8,
+      "imageid": 8,
+      "name": "Mason Zhou",
+      "semester": 1,
+      "marks": [
+        { "subject": "Physics", "marks": 95 },
+        { "subject": "Computer", "marks": 98 },
+        { "subject": "English", "marks": 94 }
+      ]
+    },
+    {
+      "id": 9,
+      "imageid": 9,
+      "name": "Isabella Santos",
+      "semester": 8,
+      "marks": [
+        { "subject": "Physics", "marks": 66 },
+        { "subject": "Computer", "marks": 89 },
+        { "subject": "English", "marks": 70 }
+      ]
+    },
+    {
+      "id": 10,
+      "imageid": 10,
+      "name": "Sophia Clark",
+      "semester": 4,
+      "marks": [
+        { "subject": "Physics", "marks": 78 },
+        { "subject": "Computer", "marks": 82 },
+        { "subject": "English", "marks": 76 }
+      ]
+    }
+  ]
+}

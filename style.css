@@ -1,0 +1,57 @@
+/* Styling for Grid */
+@import "./node_modules/@bryntum/grid/grid.stockholm.css";
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+#app {
+  height: 100vh;
+}
+
+/* Styling for column header */
+.b-grid-header-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Spacing for cells */
+.b-grid-row {
+  height: 60px;
+}
+
+/* styling for nested grid */
+.inner-grid {
+  margin: 1em;
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+
+/* Margin for font-awesome icons */
+.b-fa {
+  margin-right: 10px;
+}
+
+/* Horizontal alignment avatar and name*/
+.name-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.avatar {
+  height: 2.5em;
+  width: 2.5em;
+  border-radius: 50%;
+}
+
+.badge {
+  border-radius: 1em;
+  padding: 0.4em 0.8em;
+  color: #fff;
+  text-align: center;
+  min-width: 6em;
+}
