@@ -125,11 +125,11 @@ const grid = new Grid({
       icon: "b-fa b-fa-graduation-cap",
       flex: 1,
     },
-    // {
-    //   text: "Remarks",
-    //   field: "remarks",
-    //   icon: "b-fa b-fa-gavel",
-    //   flex: 1,
-    // },
+    {
+      text: "Remarks",
+      field: "remarks",
+      icon: "b-fa b-fa-gavel",
+      flex: 1,
+    },
   ],
 });
